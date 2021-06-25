@@ -1,0 +1,8 @@
+,type,translation,guns
+0,Shotgun,Дробовик,"{'XM1014', 'MAG-7', 'Nova', 'Sawed-Off'}"
+1,Knife,Нож,"{'Falchion Knife', 'Classic Knife', 'Stiletto Knife', 'Ursus Knife', 'Nomad Knife', 'Bayonet', 'Talon Knife', 'Karambit', 'Huntsman Knife', 'Paracord Knife', 'Skeleton Knife', 'Navaja Knife', 'Butterfly Knife', 'Shadow Daggers', 'Gut Knife', 'Flip Knife', 'Bowie Knife', 'Survival Knife', 'M9 Bayonet'}"
+2,Rifle,Винтовка,"{'Galil AR', 'SG 553', 'AUG', 'AK-47', 'M4A4', 'M4A1-S', 'FAMAS'}"
+3,Pistol,Пистолет,"{'P250', 'Five-SeveN', 'Dual Berettas', 'USP-S', 'CZ75-Auto', 'Tec-9', 'Desert Eagle', 'R8 Revolver', 'P2000', 'Glock-18'}"
+4,SMG,Пистолет пулемет,"{'UMP-45', 'PP-Bizon', 'P90', 'MP7', 'MAC-10', 'MP9'}"
+5,Machinegun,Пулемет,"{'M249', 'Negev'}"
+6,Sniper Rifle,Снайперская винтовка,"{'AWP', 'G3SG1', 'SSG 08', 'SCAR-20'}"

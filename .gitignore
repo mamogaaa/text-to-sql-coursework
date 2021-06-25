@@ -1,0 +1,8 @@
+py_lib/encoder.dict
+py_lib/decoder.dict
+py_lib/catboost_info
+*.zip
+__pycache__
+output
+*/**/node_modules
+*/**/.DS_Store

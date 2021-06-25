@@ -1,0 +1,14 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/technext/mega_able.git",
+  "author": "<vishgleb@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "static-server": "^2.2.1"
+  }
+}
